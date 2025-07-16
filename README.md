@@ -22,5 +22,6 @@ This interactive Power BI dashboard explores the **top-performing universities w
 ---
 
 - Dashboard Preview
-![Dashboard Preview](https://github.com/AhmedMostafa-30/World_University_Ranking_Dashboards/blob/main/WorldRankOverview.png)
+![Dashboard Preview](https://github.com/AhmedMostafa-30/World_University_Ranking_Dashboard/blob/main/WorldRankOverview.png)
+
 
